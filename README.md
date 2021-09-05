@@ -22,5 +22,5 @@ I am Danish Shakeel, a CSE undergrad from Kashmir. I currently work at rtCamp as
 </a>
 <br><br>
 <a href="https://github.com/danish17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish17&theme=dark&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish17&theme=dark&layout=compact&count_private=true&show_icons=true" />
 </a>
