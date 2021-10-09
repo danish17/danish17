@@ -1,17 +1,17 @@
 ## <p align="center">Hi there! I am Danish 👋</p>
 ### <p align="center">[Website](https://danishshakeel.me "Danish's Homepage") &#8226; [Research Gate](https://www.researchgate.net/profile/Danish-Shakeel-2 "Danish's RG") &#8226; [Instagram](https://instagram.com/iamdanish17 "Danish's Instagram") &#8226; [Facebook](https://facebook.com/danishshakeel17 "Danish's Facebook")
 ---
-I am Danish Shakeel, a CSE undergrad from Kashmir. I currently work at rtCamp as a WordPress Engineer. I am in a superposition of four states: development, quantum computing, machine learning and football. 
+I am Danish Shakeel, a CSE undergrad from Kashmir. I currently work at rtCamp as a Systems Engineer. I am in a superposition of four states: development, quantum computing, machine learning, and football. 
 
-💻 I work with: `.py`, `.php`, `.js`, `.html`, `.css`, `.ai`, `.cpp`, `raspi`
+💻 I work with: `wordpress`, `.py`, `.php`, `.js`, `.html`, `.css`, `.ai`, `.cpp`, `raspi`, `.sh` , `linux`, `systems`
 
 🔬 Research Areas: `machine learning`, `healthcare`, `quantum computing`
 
-🔧 Worked on: [All Things Kashmir](https://allthingskashmir.com), [EzeSkool](https://ezeskool.com/)
+🔧 Worked on: [All Things Kashmir](https://allthingskashmir.com), [EzeSkool](https://ezeskool.com/), [EasyEngine](https://easyengine.io)
 
-🎼 Learning: `ThreeJS`, `DevOps`
+🎼 Learning: `ThreeJS`, `DevOps`, `Docker`, `K8S`
 
-🎙 Let's Talk About: `Tech`, `Quantum Computing`, `Design`, `Human History`
+🎙 Let's Talk About: `Tech`, `Quantum Computing`, `Philosophy`, `Human History`
 
 📧 [danishshakeel54@gmail.com](mailto:danishshakeel54@gmail.com)
 <br><br>
