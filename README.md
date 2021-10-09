@@ -3,8 +3,6 @@
 ---
 I am Danish Shakeel, a CSE undergrad from Kashmir. I currently work at rtCamp as a WordPress Engineer. I am in a superposition of four states: development, quantum computing, machine learning and football. 
 
-> I am not an exceptional programmer, but I can get things done.
-
 💻 I work with: `.py`, `.php`, `.js`, `.html`, `.css`, `.ai`, `.cpp`, `raspi`
 
 🔬 Research Areas: `machine learning`, `healthcare`, `quantum computing`
