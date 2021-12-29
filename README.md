@@ -1,19 +1,19 @@
 ## <p align="center">Hi there! I am Danish 👋</p>
 ### <p align="center">[Website](https://danishshakeel.me "Danish's Homepage") &#8226; [Research Gate](https://www.researchgate.net/profile/Danish-Shakeel-2 "Danish's RG") &#8226; [Instagram](https://instagram.com/iamdanish17 "Danish's Instagram") &#8226; [Facebook](https://facebook.com/danishshakeel17 "Danish's Facebook")
 ---
-I am Danish Shakeel, a CSE undergrad from Kashmir. I currently work at rtCamp as a Systems Engineer. I am in a superposition of four states: development, quantum computing, machine learning, and football. 
-
-💻 I work with: `wordpress`, `.py`, `.php`, `.js`, `.html`, `.css`, `.ai`, `.cpp`, `raspi`, `.sh` , `linux`, `systems`
+🏡💻 Currently working as a `Systems Engineer` ⚙️ at [rtCamp](https://rtcamp.com "rtCamp")
+  
+💻 I work with:  `linux`, `wordpress`, `.py`, `.php`, `.js`, `.html`, `.css`, `.sh`, `.ai`, `.cpp`, `raspi`, `systems`
 
 🔬 Research Areas: `machine learning`, `healthcare`, `quantum computing`
 
 🔧 Worked on: [All Things Kashmir](https://allthingskashmir.com), [EzeSkool](https://ezeskool.com/), [EasyEngine](https://easyengine.io)
 
-🎼 Learning: `ThreeJS`, `DevOps`, `Docker`, `K8S`
+🎼 Learning: `Next.js`, `Team Management`
 
 🎙 Let's Talk About: `Tech`, `Quantum Computing`, `Philosophy`, `Human History`
 
-📧 [danishshakeel54@gmail.com](mailto:danishshakeel54@gmail.com)
+📧 [hi@danishshakeel.me](mailto:hi@danishshakeel.me)
 <br><br>
 <a href="https://github.com/danish17">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danish17&show_icons=true&theme=dark" />
