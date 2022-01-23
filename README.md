@@ -7,8 +7,6 @@
 
 🔬 Research Areas: `machine learning`, `healthcare`, `quantum computing`
 
-🔧 Worked on: [All Things Kashmir](https://allthingskashmir.com), [EzeSkool](https://ezeskool.com/), [EasyEngine](https://easyengine.io)
-
 🎼 Learning: `DevOps`, `Next.js`, `Team Management`
 
 🎙 Let's Talk About: `Tech`, `Quantum Computing`, `Philosophy`, `Human History`
