@@ -9,7 +9,7 @@
 
 🎼 Learning: `DevOps`, `Next.js`, `Team Management`
 
-🎙 Let's Talk About: `Tech`, `Quantum Computing`, `Philosophy`, `Human History`
+🎙 Let's Talk About: `Tech`, `Machine Learning`, `Quantum Computing`, `Philosophy`, `Human History`
 
 📧 [hi@danishshakeel.me](mailto:hi@danishshakeel.me)
 <br><br>
