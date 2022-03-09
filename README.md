@@ -3,11 +3,9 @@
 ---
 🏡💻 Currently working as a `Systems Engineer` ⚙️ at [rtCamp](https://rtcamp.com "rtCamp")
   
-💻 I work with:  `linux`, `wordpress`, `.js`, `.jsx`, `.py`, `.php`, `.css`, `.sh`, `.ai`, `.cpp`, `raspi`, `systems`
+💻 I work with:  `linux`, `wordpress`, `.js`, `.jsx`, `.ts`, `.tsx`, `.py`, `.php`, `.css`, `.sh`, `.ai`, `.cpp`, `raspi`, `systems`
 
 🔬 Research Areas: `machine learning`, `healthcare`, `quantum computing`
-
-🎼 Learning: `DevOps`, `Next.js`, `Team Management`
 
 🎙 Let's Talk About: `Tech`, `Machine Learning`, `Quantum Computing`, `Philosophy`, `Human History`
 
