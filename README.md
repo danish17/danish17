@@ -3,7 +3,7 @@
 ---
 🏡💻 Currently working as a `Software Engineer` ⚙️ at [rtCamp](https://rtcamp.com "rtCamp")
   
-💻 I work with:  `.js`, `.jsx`, `.ts`, `.tsx`, `.py`, `.php`, `.css`, `.sh`, `.ai`, `.cpp`, `raspi`, `systems`, linux`, `wordpress`
+💻 I work with:  `.js`, `.jsx`, `.ts`, `.tsx`, `.py`, `.php`, `.css`, `.sh`, `.ai`, `.cpp`, `raspi`, `systems`, `linux`, `wordpress`
 
 🔬 Research Areas: `machine learning`, `healthcare`, `quantum computing`
 
