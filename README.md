@@ -3,5 +3,5 @@
 ---
 🏡💻 Currently working as a `Senior Software Engineer/Growth Engineer` ⚙️ at [rtCamp](https://rtcamp.com "rtCamp")
 
-📧 [hi@danishshakeel.me](mailto:hi@danishshakeel.me)
+📧 [danishshakeel54@gmail.com](mailto:danishshakeel54@gmail.com)
 <br><br>
