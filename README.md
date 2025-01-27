@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about programming and technology. H
 - 🔭 I’m currently working on various programming projects and improving my skills.
 - 🌱 I’m currently learning advanced algorithms and machine learning.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [danishshakeel54@gmail.com](mailto:danishshakeel54@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
 ## My Skills
