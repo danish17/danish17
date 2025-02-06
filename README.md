@@ -1,40 +1,8 @@
 # Hi there, I'm Danish! 👋
 
-Welcome to my GitHub profile! I'm passionate about programming and technology. Here's a little bit about me:
-
-## About Me
-
-- 🔭 I’m currently working on various programming projects and improving my skills.
-- 🌱 I’m currently learning advanced algorithms and machine learning.
-- 💬 Ask me about WordPress, JavaScript, and web development.
-- 📫 How to reach me: [danishshakeel54@gmail.com](mailto:danishshakeel54@gmail.com)
-
-## My Skills
-
-### Languages
-- Python
-- JavaScript
-- Java
-- C++
-
-### Web Development
-- HTML
-- CSS
-- React
-- Node.js
-
-### Tools & Technologies
-- Git & GitHub
-- Docker
-- Kubernetes
-- AWS
-
-## Top Languages
+- 📫 [danishshakeel54@gmail.com](mailto:danishshakeel54@gmail.com)
+- Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/danish17/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danish17&layout=compact&theme=radical)
-
-## Contact Me
-
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/danish17/).
 
 Thanks for visiting my profile! Have a great day! 😊
